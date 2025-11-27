@@ -1,0 +1,9 @@
+# gradle 缓存文件夹
+.gradle/
+
+# 编译输出文件夹
+/build/
+
+# gradle 包文件
+gradlew
+gradlew.bat
